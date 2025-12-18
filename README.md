@@ -4,9 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" alt="xuantrun stats" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=XUANTRUN%20OFFICIAL&fontSize=70&animation=twinkling" />
-</p>
 
 <p align="center">
   <a href="https://t.me/nxtdzuia">
