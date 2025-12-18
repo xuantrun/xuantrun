@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" alt="xuantrun stats" />
 </p>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xuantrun&theme=react-dark&area=true&hide_border=true&line=32cd32&point=ff4500)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nxtdzuia)
 
