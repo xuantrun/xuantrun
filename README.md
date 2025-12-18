@@ -5,9 +5,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" alt="xuantrun stats" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndmF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13W0fN83Xj3i/giphy.gif" />
-</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nxtdzuia)
 
