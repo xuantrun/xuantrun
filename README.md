@@ -1,8 +1,5 @@
 ![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp)
 
-
-<img width="4000" height="2166" alt="image" src="https://github.com/user-attachments/assets/b726043e-d1c5-4a28-a9f7-c0e7b2501dca" />
-
 ### 📊 Thống kê chi tiết:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" alt="xuantrun stats" />
