@@ -1,8 +1,5 @@
 ![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" alt="xuantrun stats" />
-</p>
 
 
 <p align="center">
@@ -16,8 +13,6 @@
 </p>
 
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuantrun&show_icons=true&theme=tokyonight" />
-</p>
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nxtdzuia)
